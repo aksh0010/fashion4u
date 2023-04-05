@@ -11,7 +11,7 @@ Link to the website on uwindsor domain.
  
 
   Website is built using below technologies:
- 1) Langugaes :php, html, css
+ 1) Langugaes :PHP, HTML, CSS, JavaScript 
  2) Framework :Bootstrap
  3) Libraries:Boxicons
  
