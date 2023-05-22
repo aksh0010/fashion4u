@@ -8,7 +8,6 @@ Link to the website on uwindsor domain.
  1) @aksh0010
  2) @vedang-codes
  3) @nirajpashandu
- 4) Matt Randazzo
  
 
   ## Website is built using below technologies:
